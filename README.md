@@ -6,7 +6,7 @@ The system is displayed by a user window interface in which the data is displaye
 ## Technologies:
 - Python
 - pandas
-- mtaplotlib
+- matlab
 - tkinter windows UI
 
 ## Demo
