@@ -10,4 +10,4 @@ The system is displayed by a user window interface in which the data is displaye
 - tkinter windows UI
 
 ## Demo
-![Uploading ezgif.com-gif-maker.gif…]()
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/80786728/175324905-9c5b3eaf-2cba-4da7-90f8-570f0257b61a.gif)
